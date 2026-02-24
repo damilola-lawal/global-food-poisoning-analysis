@@ -1,4 +1,4 @@
-<img width="1220" height="544" alt="Screenshot 2026-02-07 233811p" src="https://github.com/user-attachments/assets/34c21fc4-7953-41b3-98c0-f68ca4c1d30f" />
+
 # 📊 Global Food Poisoning Analysis Dashboard
  Project Overview
 This project analyzes global food poisoning data across multiple countries to identify trends, leading food sources, dominant pathogens, and key root causes.The goal was to uncover actionable insights to support public health decisions.
@@ -27,7 +27,8 @@ This project analyzes global food poisoning data across multiple countries to id
 - Implement public health awareness campaigns.
 
 📊 Dashboard Preview
-![Dashboard] (Screenshot 2026-02-07 233811p.png…)
+![Dashboard 1] (Screenshot 2026-02-07 233811p.png)
+![Dashboard 2] (Screenshot 2026-02-08 113234p.png)
 
 
   
