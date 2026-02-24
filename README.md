@@ -1,4 +1,4 @@
-
+dashboard1.png
 # 📊 Global Food Poisoning Analysis Dashboard
  Project Overview
 This project analyzes global food poisoning data across multiple countries to identify trends, leading food sources, dominant pathogens, and key root causes.The goal was to uncover actionable insights to support public health decisions.
