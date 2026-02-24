@@ -30,11 +30,3 @@ This project analyzes global food poisoning data across multiple countries to id
 ![Dashboard 1] (Screenshot 2026-02-07 233811p.png)
 ![Dashboard 2] (Screenshot 2026-02-08 113234p.png)
 
-
-  
-
-
-
-  
-
-📊 Dashboard Preview
