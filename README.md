@@ -27,6 +27,7 @@ This project analyzes global food poisoning data across multiple countries to id
 - Implement public health awareness campaigns.
 
 📊 Dashboard Preview
-![Dashboard 1] (Screenshot 2026-02-07 233811p.png)
+![Dashboard 1]
+
 ![Dashboard 2] (Screenshot 2026-02-08 113234p.png)
 
